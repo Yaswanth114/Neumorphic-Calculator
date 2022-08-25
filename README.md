@@ -39,7 +39,7 @@ preview will be added shortly
 #### Clone the repo
 
 ```sh
-$ git clone https://github.com/preetamvarun/Neumorphic-Calculator.git
+$ git clone https://github.com/Yaswanth114/Neumorphic-Calculator.git
 $ cd Neumorphic-Calculator/
 ```
 
